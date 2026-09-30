@@ -1,0 +1,9 @@
+Backend/sms_config.php
+Backend/telegram_config.php
+
+*.log
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
